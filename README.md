@@ -54,7 +54,7 @@ The `MAPLE` file consists multiple options. A brief description of each of these
 
 * `Qsat`: Saturation capacity of adsorbent [mol/m3]. Ref. to Eq. 1 (qsat) in the original article. Varies from [800 10000][mol/m3] 
 * `log10(bCO2)`: log base 10 of Adsorption coeffecient of component A [m3/mol]. Ref. to Eq. 2 (bi) in the original article. Varies from [-5 1] [m3/mol]  
-* `log10(bCO2)`: log base 10 of Adsorption coeffecient of component B [m3/mol]. Ref. to Eq. 2 (bi) in the original article. Varies from [-7 0] [m3/mol] 
+* `log10(bN2)`: log base 10 of Adsorption coeffecient of component B [m3/mol]. Ref. to Eq. 2 (bi) in the original article. Varies from [-7 0] [m3/mol] 
 * `DelUCO2`: -Internal energy of component A [kJ/mol]. Ref. to Eq. 2 (Ui) in the original article. Varies from [7 47] [kJ/mol]
 * `DelUN2`: -Internal energy of component B [kJ/mol]. Ref. to Eq. 2 (Ui) in the original article. Varies from [7 47] [kJ/mol]
 * `Density`: Particle/Pellet Density [kg/m3]. Ref. to Eq. S3 (\rho_s) in the SI of the original article. Varies from [800 1200] [kg/m3]
